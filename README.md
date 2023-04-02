@@ -8,7 +8,7 @@ ________________________________________________________________________________
 - 🌱 Atualmente estou aprendendo Golang, Java e desenvolvimen web
 - 🤔 Embusca de migração para área de programação
 - 📫 Contato e-mail: katisv@gmail.com
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

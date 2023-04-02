@@ -4,11 +4,9 @@
 </div>
 ________________________________________________________________________________________
 
--  💻Trabalo como Analista de Suporte
+-  💻Trabalho como Analista de Suporte
 - 🌱 Atualmente estou aprendendo Golang, Java e desenvolvimen web
-- 👯 I’m looking to collaborate on ..
 - 🤔 Embusca de migração para área de programação
-- 💬 Ask me about ...
 - 📫 Contato e-mail: katisv@gmail.com
 - 😄 Pronouns: Ela/Dela
 

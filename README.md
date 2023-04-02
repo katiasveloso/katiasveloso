@@ -23,28 +23,5 @@
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="!https://user-images.githubusercontent.com/66650006/229376613-365fa376-c6b6-4c9a-858d-f4b9ba0814d4.gif">
 </div>
 
-name: Generate Datas
 
-em :
-  cronograma : # executar a cada 12 horas
-    - cron : " * */12 * * * "
-  workflow_dispatch :
-
-trabalhos :
-  construir :
-    nome : Jobs para atualizar dados
-    run-on : ubuntu-latest
-    passos :
-      # Animação de Cobra
-      - usa : Platane/snk@master
-        id : cobra-gif
-        com :
-          github_user_name : katiasveloso
-          svg_out_path : dist/github-contribution-grid-snake.svg
-
-      - usa : crazy-max/ghaction-github-pages@v2.1.3
-        com :
-          target_branch : saída
-          build_dir : dist
-        ambiente :
-          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+       

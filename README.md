@@ -1,7 +1,7 @@
 ### Olá, eu sou Kátia Veloso!!
 
 
-![WelcomeGIF](https://user-images.githubusercontent.com/66650006/229376613-365fa376-c6b6-4c9a-858d-f4b9ba0814d4.gif)
+
 
 -  💻Trabalo como Analista de Suporte
 - 🌱 Atualmente estou aprendendo Golang, Java e desenvolvimen web
@@ -20,5 +20,5 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![WelcomeGIF](https://user-images.githubusercontent.com/66650006/229376613-365fa376-c6b6-4c9a-858d-f4b9ba0814d4.gif)">
 </div>

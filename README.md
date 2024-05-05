@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 -  💻Trabalho como Analista de Suporte
 - 🌱 Atualmente estou aprendendo Golang, Java e desenvolvimento web
-- 🤔 Embusca de migração para área de programação
+- 🤔 Em busca de migração para área de programação
 - 📫 Contato e-mail: katisv@gmail.com
 
 

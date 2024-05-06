@@ -1,4 +1,5 @@
-### Olá, eu sou Kátia Veloso!!
+###![ClipWindowsGIF](https://github.com/katiasveloso/katiasveloso/assets/66650006/05d4d3e0-2952-415d-8f85-498270018483)
+ Olá, eu sou Kátia Veloso!!
 <div style="display: inline_block"><br>
 <img align="right" alt="teste" height="200" style="border-radius:50px;" src="https://i.pinimg.com/736x/46/57/08/4657089d0727b5618d0f05fa53ca5b7c.jpg">
 </div>

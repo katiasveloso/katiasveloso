@@ -1,6 +1,6 @@
 ### Olá, eu sou Kátia Veloso!!
 <div style="display: inline_block"><br>
-<img align="right" alt="teste" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66650006/229376613-365fa376-c6b6-4c9a-858d-f4b9ba0814d4.gif">
+<img align="right" alt="teste" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/46/57/08/4657089d0727b5618d0f05fa53ca5b7c.jpg">
 </div>
 ________________________________________________________________________________________
 

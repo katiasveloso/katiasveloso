@@ -1,10 +1,9 @@
-###Olá, eu sou Kátia Veloso!!
+Olá, eu sou Kátia Veloso!!
 
 
 <div style="display: inline_block"><br>
 <img align="right" alt="teste" height="200" style="border-radius:50px;" src="https://i.pinimg.com/736x/46/57/08/4657089d0727b5618d0f05fa53ca5b7c.jpg">
 </div>
-
 
 ________________________________________________________________________________________
 -  💻Trabalho como Analista de Suporte

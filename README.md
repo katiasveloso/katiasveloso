@@ -4,7 +4,7 @@
 
 
 <div style="display: inline_block"><br>
-<img align="right" alt="teste" height="200" style="border-radius:50px;" src="https://i.pinimg.com/736x/46/57/08/4657089d0727b5618d0f05fa53ca5b7c.jpg">
+<img align="right" alt="teste" height="300" style="border-radius:50px;" src="https://i.pinimg.com/736x/46/57/08/4657089d0727b5618d0f05fa53ca5b7c.jpg">
 </div>
 
 
@@ -21,10 +21,10 @@
                                                               
 
 
-<div align="center"  |Contatos|>
+<div align="center">
 <a href = "mailto:katisv@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor" target="_blank"></a> 
 <a href= "https://www.linkedin.com/in/k%C3%A1tia-veloso-99299322/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF"target="_blank"></a>
-
+<p></p>
    
    
 

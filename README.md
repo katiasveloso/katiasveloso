@@ -14,7 +14,7 @@
 - 🍀 Buscando uma oportunidade
 
 
-                                                                      |Contatos|
+                                                                  |Contatos|
 
 
 <div align="center">

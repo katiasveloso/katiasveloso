@@ -9,7 +9,7 @@
 
 
 -  💻Trabalho como Analista de Suporte
-- 🌱 Atualmente estou aprendendo HTML,CSS,Java,Golang.
+- 🌱 Atualmente estou aprendendo HTML, CSS, Java script, java, Golang.
 - 🤔 Migrando para área de programação
 - 🍀 Buscando uma oportunidade
 

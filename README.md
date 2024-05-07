@@ -13,8 +13,8 @@
 - 🤔 Migrando para área de programação
 - 🍀 Buscando uma oportunidade
 
-
-                                                                  |Contatos|
+<div align="center" |Contatos|>
+                                                              
 
 
 <div align="center">

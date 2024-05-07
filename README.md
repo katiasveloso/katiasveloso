@@ -15,10 +15,13 @@
 
 |Contatos|
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF)](https://www.linkedin.com/in/k%C3%A1tia-veloso-99299322/)
 
+<div align="center">
+<a href = "mailto:katisv@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor" target="_blank"></a> 
+<a[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF)](https://www.linkedin.com/in/k%C3%A1tia-veloso-99299322/)</a>
 
-<div style="display: inline_block"><br>
+   
+   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

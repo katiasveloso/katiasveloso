@@ -1,14 +1,16 @@
-###![ClipWindowsGIF](https://github.com/katiasveloso/katiasveloso/assets/66650006/05d4d3e0-2952-415d-8f85-498270018483)
- Olá, eu sou Kátia Veloso!!
+#Olá, eu sou Kátia Veloso!!
 <div style="display: inline_block"><br>
 <img align="right" alt="teste" height="200" style="border-radius:50px;" src="https://i.pinimg.com/736x/46/57/08/4657089d0727b5618d0f05fa53ca5b7c.jpg">
 </div>
 ________________________________________________________________________________________
-
 -  💻Trabalho como Analista de Suporte
-- 🌱 Atualmente estou aprendendo Golang, Java e desenvolvimento web
-- 🤔 Em busca de migração para área de programação
-- 📫 Contato e-mail: katisv@gmail.com
+- 🌱 Atualmente estou aprendendo HTML,CSS,Java,Golang.
+- 🤔 Migrando para área de programação
+- 🍀 Buscando uma oportunidade
+
+|Contatos|
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF)](https://www.linkedin.com/in/elidianaandrade/)
 
 
 <div style="display: inline_block"><br>

@@ -1,10 +1,6 @@
 <h1>
-   
-    <span>Olá, eu sou Kátia Veloso!!</span>
+   Olá, eu sou Kátia Veloso!!
 </h1>
-
-
-
 
 
 <div style="display: inline_block"><br>

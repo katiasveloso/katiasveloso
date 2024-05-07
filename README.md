@@ -18,7 +18,7 @@
 
 <div align="center">
 <a href = "mailto:katisv@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor" target="_blank"></a> 
-<a[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF)](https://www.linkedin.com/in/k%C3%A1tia-veloso-99299322/)</a>
+<a href= "https://www.linkedin.com/in/k%C3%A1tia-veloso-99299322/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF"target="_blank"></a>
 
    
    <div style="display: inline_block"><br>

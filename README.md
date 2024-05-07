@@ -15,7 +15,7 @@
 
 |Contatos|
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF)](https://www.linkedin.com/in/elidianaandrade/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF)](https://www.linkedin.com/in/k%C3%A1tia-veloso-99299322/)
 
 
 <div style="display: inline_block"><br>

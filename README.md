@@ -19,25 +19,21 @@
 
 
 
-
-
-
-<p>
 <div align="center">
 <a href = "mailto:katisv@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor" target="_blank"></a> 
 <a href= "https://www.linkedin.com/in/k%C3%A1tia-veloso-99299322/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0088&color:FF"target="_blank"></a>
-</p>
-   
+
+ <br/><br/><br/>  
    
 
    
-<p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="katia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="katia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="katia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-</p>
+
 
 
 

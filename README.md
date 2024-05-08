@@ -9,7 +9,7 @@
 
 
 -  💻Trabalho como Analista de Suporte
-- 🌱 Atualmente estou aprendendo HTML, CSS, Java Script, Java, Golang.
+- 🌱 Atualmente estou aprendendo HTML, CSS, Java Script, Java, Git, Github,Golang.
 - 🤔 Migrando para área de programação
 - 🍀 Buscando uma oportunidade
 
@@ -37,6 +37,7 @@
   <img align="center" alt="katia-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
   <img align="center" alt="katia-golan" height="30" width="40" src="https://icongr.am/devicon/go-original.svg?size=30&color=currentColor" alt="Java" />
   <img align="center" alt="katia-git" height="40" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg?size=62&color=currentColor" alt="Java" />
+   <img align="center" alt="katia-github" height="40" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=62&color=currentColor" alt="Java" />
 </div>
 </div>
 
